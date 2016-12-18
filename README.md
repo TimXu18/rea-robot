@@ -6,7 +6,7 @@ Please enter following command in console one by one,
 then you should able to see sample report output
 
 You can run Junit test cases in TestRobot and TestRobotSimulator classes used to test 
-Robot and RobotSimulator classes functions
+Robot and RobotSimulator classes functions work as expected
 
 ### Example a
     PLACE 3,2,NORTH
